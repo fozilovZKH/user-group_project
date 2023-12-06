@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Nodejs standard group",
+        "short_name": "746"
+    },
+    {
+        "id": 2,
+        "name": "Java standard group",
+        "short_name": "123"
+    }
+]
